@@ -11,6 +11,11 @@
     src: url('/asets/fonts/static/Roboto-Bold.ttf') format(truetype);
 }
 
+@font-face {
+    font-family: roboto-medium;
+    src: url('/asets/fonts/static/Roboto-Medium.ttf') format(truetype);
+}
+
 
 
 .light{
