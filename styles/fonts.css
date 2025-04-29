@@ -17,15 +17,34 @@
 }
 
 
+/* // <weight>: Use a value from 100 to 900
+// <uniquifier>: Use a unique and descriptive class name */
 
-.light{
-    font-family: roboto-light
+
+.roboto-light { 
+        font-family: "Roboto", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 100px;
+        font-style: normal;
+        
+    
+}
+      
+
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+   
+     
 }
 
-.regular {
-    font-family: roboto;
-}
-
-.bold {
-    font-family: roboto-bold;
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900px;
+    font-style: normal;
+   
 }
